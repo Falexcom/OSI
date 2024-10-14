@@ -2,8 +2,8 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Клиент-серверное приложение](./task1/README.md);	
-2. [Клиент-сервер с рюшечками](./task2/README.md)* (необязательна к выполнению).
+1. [Клиент-серверное приложение](https://github.com/netology-code/jd-homeworks/blob/master/network/task1/README.md);	
+2. [Клиент-сервер с рюшечками](https://github.com/netology-code/jd-homeworks/blob/master/network/task2/README.md)* (необязательна к выполнению).
 
 =======
 
